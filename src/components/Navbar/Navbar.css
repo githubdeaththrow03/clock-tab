@@ -1,0 +1,25 @@
+img {
+    width: 33px;
+    height: 33px;
+}
+
+.nav {
+    background-color: #C8C8C8 !important;
+    backdrop-filter: blur(5px)  !important;    
+    color: #373a4a !important;
+    opacity: 0.9;
+}
+
+.nav-items {
+    color: #373a4a;
+    text-decoration: none;
+    
+}
+
+.nav-items h1 {
+    font-size: 24px;
+}
+
+.nav-items, .nav-items h1:hover {
+    cursor: pointer;
+}
